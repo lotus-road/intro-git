@@ -4,3 +4,4 @@ UTF-8に変換。
 /git commit
 /git remove
 /git status
+/git diff
